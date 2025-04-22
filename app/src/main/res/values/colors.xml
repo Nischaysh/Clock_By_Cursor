@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ios_blue">#007AFF</color>
+    <color name="ios_blue_dark">#0066CC</color>
+    <color name="ios_gray">#8E8E93</color>
+    <color name="ios_gray_dark">#636366</color>
+    <color name="ios_background">#F2F2F7</color>
+    <color name="ios_text_primary">#000000</color>
+    <color name="ios_text_secondary">#8E8E93</color>
+    <color name="ios_bottom_nav_icon">#8E8E93</color>
+    <color name="ios_bottom_nav_text">#8E8E93</color>
+    <color name="ios_bottom_nav_selected">#007AFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

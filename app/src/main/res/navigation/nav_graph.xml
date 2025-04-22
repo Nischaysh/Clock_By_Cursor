@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_clock">
+
+    <fragment
+        android:id="@+id/navigation_clock"
+        android:name="com.example.clock.ClockFragment"
+        android:label="Clock" />
+
+    <fragment
+        android:id="@+id/navigation_timer"
+        android:name="com.example.clock.TimerFragment"
+        android:label="Timer" />
+
+    <fragment
+        android:id="@+id/navigation_stopwatch"
+        android:name="com.example.clock.StopwatchFragment"
+        android:label="Stopwatch" />
+
+</navigation> 

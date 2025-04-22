@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_clock"
+        android:icon="@drawable/ic_clock"
+        android:title="Clock"
+        android:iconTint="@color/bottom_nav_icon_color"
+        android:titleTextColor="@color/bottom_nav_text_color" />
+
+    <item
+        android:id="@+id/navigation_timer"
+        android:icon="@drawable/ic_timer"
+        android:title="Timer"
+        android:iconTint="@color/bottom_nav_icon_color"
+        android:titleTextColor="@color/bottom_nav_text_color" />
+
+    <item
+        android:id="@+id/navigation_stopwatch"
+        android:icon="@drawable/ic_stopwatch"
+        android:title="Stopwatch"
+        android:iconTint="@color/bottom_nav_icon_color"
+        android:titleTextColor="@color/bottom_nav_text_color" />
+</menu> 
