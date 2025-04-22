@@ -30,6 +30,23 @@ This app was developed **without typing a single line of code manually**, showca
 
 ---
 
+## 📲 Download the App
+
+🎉 **Try out the AI-Powered Clock App on your Android device!**
+
+**Click download link**
+
+<br>
+<p align="center">
+  <a href="https://github.com/nischaysh/Clock_By_Cursor/releases/download/v1.0.1/Clock.apk" download>
+    <img src="https://img.shields.io/badge/⬇️ Download%20APK-blue?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</p>
+> No Play Store needed – just download, install, and enjoy the clean UI experience!
+> 💡 Tip: Enable "Install from unknown sources" in your phone settings if needed.
+
+---
+
 ## 🛠 Tech Stack
 
 - **Kotlin** – Modern Android programming language
