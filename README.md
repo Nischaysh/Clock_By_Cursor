@@ -39,7 +39,7 @@ This app was developed **without typing a single line of code manually**, showca
 <br>
 <p align="center">
   <a href="https://github.com/nischaysh/Clock_By_Cursor/releases/download/v1.0.1/Clock.apk" download>
-    <img src="https://img.shields.io/badge/⬇️ Download%20APK-blue?style=for-the-badge&logo=android" alt="Download APK">
+    <img src="https://img.shields.io/badge/Download%20APK-blue?style=for-the-badge&logo=android" alt="Download APK">
   </a>
 </p>
 > No Play Store needed – just download, install, and enjoy the clean UI experience!
