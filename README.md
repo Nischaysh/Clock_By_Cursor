@@ -66,9 +66,9 @@ With this app, I aim to:
 
 **Lalit Sharma**  
 
-- 🔗 [GitHub](https://github.com/nischaysh)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lalit_sharma_x/)
-- 🌐 Portfolio – Coming Soon!
+- 🔗 [GitHub](https://x.com/nischayyy_y)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lalit-sharma-x/)
+- 🌐 [Portfolio](https://www.lalitsharma.framer.website/)
 
 ---
 
